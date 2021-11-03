@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #fbc2eb 40%, #a6c1ee 60%);
+}
+ul li {
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 4px 8px;
+  list-style: none;
+  background-color: palegreen;
+}
+
+ul li {
+  margin: 10px 5px;
+}
